@@ -4537,6 +4537,7 @@ self.C3_JsPropNameTable = [
 	{Sprite2: 0},
 	{TXT_ToplamPuan: 0},
 	{LocalStorage: 0},
+	{Sprite3: 0},
 	{BTN: 0},
 	{Aile1: 0},
 	{rnd_sorusirasi: 0},
@@ -4585,6 +4586,7 @@ self.InstanceType = {
 	Sprite2: class extends self.ISpriteInstance {},
 	TXT_ToplamPuan: class extends self.ITextInstance {},
 	LocalStorage: class extends self.IInstance {},
+	Sprite3: class extends self.ISpriteInstance {},
 	BTN: class extends self.ISpriteInstance {},
 	Aile1: class extends self.ISpriteInstance {}
 }
